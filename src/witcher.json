@@ -2,61 +2,73 @@
     {
       "id": 0,
       "name": "Geralt of Rivia",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/b/b9/Tw3_geralt_journal.png/revision/latest?cb=20170315185100"
     },
     {
       "id": 1,
       "name": "Triss Merigold",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/6/64/Tw3_journal_triss.png/revision/latest/scale-to-width-down/224?cb=20170315180202"
     },
     {
       "id": 2,
       "name": "Yennefer",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/6/66/Tw3_journal_louisa.png/revision/latest/scale-to-width-down/350?cb=20170315190827"
     },
     {
       "id": 3,
       "name": "Avallac'h",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/7/75/Tw3_journal_avallachunlocked.png/revision/latest/scale-to-width-down/300?cb=20160507171053"
     },
     {
       "id": 4,
       "name": "Vesemir",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/9/92/Tw3_journal_vesemir.png/revision/latest/scale-to-width-down/350?cb=20170315191944"
     },
     {
       "id": 5,
       "name": "Dandelion",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/a/a6/Tw3_journal_dandelion.png/revision/latest?cb=20160411194949"
     },
     {
       "id": 6,
-      "name": "Lambert",
-      "clicked": false
+      "name": "Priscilla",
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/e/e1/Tw3_journal_priscilla.png/revision/latest/scale-to-width-down/350?cb=20160503060433"
     },
     {
       "id": 7,
       "name": "Ciri",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/f/f5/Tw3_journal_ciri.png/revision/latest/scale-to-width-down/225?cb=20160527150710"
     },
     {
       "id": 8,
       "name": "Keria Mitz",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/6/6f/Tw3_journal_keira.png/revision/latest/scale-to-width-down/350?cb=20160327100213"
     },
     {
       "id": 9,
       "name": "Corinne Tilly",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/1/1e/Tw3_journal_corinnetilly.png/revision/latest/scale-to-width-down/350?cb=20170315183408"
     },
     {
       "id": 10,
       "name": "Eredin",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/4/49/Tw3_journal_eredin.png/revision/latest/scale-to-width-down/350?cb=20160508060422"
     },
     {
       "id": 11,
       "name": "Phillipa Eilhart",
-      "clicked": false
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/witcher/images/1/12/Tw3_journal_philippa.png/revision/latest/scale-to-width-down/350?cb=20160324195257"
     }
   ]

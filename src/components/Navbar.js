@@ -11,6 +11,10 @@ const styles = {
   },
   flex: {
     flex: 1,
+  },
+  text:{
+    textAlignment: "center",
+    color: "white"
   }
 };
 
@@ -21,7 +25,7 @@ function Navbar(props) {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="title" color="inherit" className={classes.flex}>
-            Click on the images!
+            Click! {props.log}
           </Typography>
           <Typography variant="title" color="inherit">
             Score: {props.currentscore} | Highscore: {props.highscore}
@@ -37,3 +41,4 @@ Navbar.propTypes = {
 };
 
 export default withStyles(styles)(Navbar);
+

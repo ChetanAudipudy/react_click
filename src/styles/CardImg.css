@@ -1,8 +1,8 @@
-.card{
-    flex-grow: 1;
-    min-width: 15%;
-    max-width: 50px;
-    margin: 20px;
-    width: 50px;
-    height: 50px;
+img{
+    width: 170px;
+    height: 170px;
+    border: 5px solid #f1f1f1;
+    margin: 8px 25px;
+    border-radius: 3px;
+    cursor: pointer;
 }
