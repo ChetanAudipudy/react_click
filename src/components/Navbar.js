@@ -25,7 +25,7 @@ function Navbar(props) {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="title" color="inherit" className={classes.flex}>
-            Click! {props.log}
+            Click on the images!{props.log}
           </Typography>
           <Typography variant="title" color="inherit">
             Score: {props.currentscore} | Highscore: {props.highscore}
